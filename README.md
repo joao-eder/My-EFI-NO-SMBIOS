@@ -17,3 +17,6 @@ SPECS:
 - Keyboard: PS2 Controller
 
 - Touchpad: I2C HID
+
+Note: 
+If you use this EFI for your notebook, consider generating the SMBIOS values.
