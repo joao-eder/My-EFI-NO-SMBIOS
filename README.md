@@ -6,7 +6,7 @@ SPECS:
 
 - iGPU: Vega 6
 
-- RAM memory: 8 GB
+- RAM memory: 20 GB
 
 - Storage: 256 GB NVMe
 
