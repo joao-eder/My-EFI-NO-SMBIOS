@@ -20,4 +20,4 @@ SPECS:
 
 Note: 
 If you use this EFI for your notebook, consider generating the SMBIOS values.
-Use SSDTTime for ACPI's for tour hardware.
+Use SSDTTime for ACPI's for your hardware.
